@@ -1,1 +1,2 @@
-# Meteora
+# Meteora: Micro-API de Monitoreo Climático Inmediato
+Meteora es un servicio de transformación de datos meteorológicos diseñado para aplicaciones de alta velocidad que requieren conocer el estado del tiempo actual sin procesar estructuras complejas. La API captura las densas transmisiones satelitales globales y las condensa en un JSON simplificado de lectura directa. Ideal para pantallas inteligentes, wearables y sistemas de domótica, MeteoInstante purga las coordenadas de control y los tiempos de respuesta del servidor para entregar únicamente los indicadores ambientales críticos: sensación térmica real, humedad ambiente, velocidad del viento y estado de precipitación actual, garantizando el mínimo consumo de datos en consultas repetitivas.
